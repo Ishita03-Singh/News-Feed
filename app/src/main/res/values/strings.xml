@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="action_science">science</string>
+    <string name="action_technology">Technology</string>
+    <string name="action_health">Health</string>
+    <string name="action_business">Business</string>
+    <string name="action_sports">Sports</string>
+    <string name="action_entertainment">Entertainment</string>
+</resources>
