@@ -9,16 +9,23 @@
 News Feed Application shows trending news on daily update where news are also categorized in various fields of interest.
 
 Built with-
-<li>
-        
-     Android Studio</li>
-          <ul>Kotlin</ul>
-        <ul> News Api</ul>
+- [Android Studio]
+ - [Kotlin]
+ - [News Api]
 
-        </li>
-
+        ![alt text](https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot1.jpeg?raw=true)
 ### Screenshots
-![alt text](https://drive.google.com/file/d/1657kuHeCXDv5lJOhb3jX8Fn8XLpQbEQY/view?usp=sharing)
+<table>
+        <tr>
+        <td><img src = ""  width="280"></td>
+        <td><img src = "https://user-images.githubusercontent.com/31350501/103173185-1a0c6b00-487f-11eb-8272-88688cbe216c.jpg" 
+width="280"></td>
+        <td><img src = "https://user-images.githubusercontent.com/31350501/103173189-1d9ff200-487f-11eb-8bc7-0e56c63d36d1.jpg" 
+width="280"></td>
+        </tr>
+</table>  
+
+
 
 
 
