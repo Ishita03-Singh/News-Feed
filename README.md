@@ -19,11 +19,14 @@ Built with-
 
 <table>
         <tr>
-        <td><img src = ""  width="280"></td>
-        <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot1.jpeg" 
-width="280"></td>
-        <td><img src = "https://user-images.githubusercontent.com/31350501/103173189-1d9ff200-487f-11eb-8bc7-0e56c63d36d1.jpg" 
-width="280"></td>
+          <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot%204.jpeg"  width="280"></td>
+           <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot%202.jpeg"  width="280"></td>
+         
+        <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot%203.jpeg"  width="280"></td>
+         
+         
+        <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot1.jpeg" width="280"></td>
+        
         </tr>
 </table>  
 
