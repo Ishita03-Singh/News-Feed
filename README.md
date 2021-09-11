@@ -9,9 +9,9 @@
 News Feed Application shows trending news on daily update where news are also categorized in various fields of interest.
 
 Built with-
-- [Android Studio]
- - [Kotlin]
- - [News Api]
+- Android Studio
+ - Kotlin
+ - News Api
  
  ### Screenshots
 
@@ -19,10 +19,10 @@ Built with-
 
 <table>
         <tr>
-           <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot%204.jpeg"  width="280"></td>
-           <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot%202.jpeg"  width="280"></td>
-           <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot%203.jpeg"  width="280"></td>
-           <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot1.jpeg" width="280"></td>
+           <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot%204.jpeg"  width="180"></td>
+           <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot%202.jpeg"  width="180"></td>
+           <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot%203.jpeg"  width="180"></td>
+           <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot1.jpeg" width="180"></td>
         
 
 </table>  
