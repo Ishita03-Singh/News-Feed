@@ -12,9 +12,11 @@ Built with-
 - [Android Studio]
  - [Kotlin]
  - [News Api]
+ 
+ ### Screenshots
 
         ![alt text](https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot1.jpeg?raw=true)
-### Screenshots
+
 <table>
         <tr>
         <td><img src = ""  width="280"></td>
