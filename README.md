@@ -19,13 +19,10 @@ Built with-
 
 <table>
         <tr>
-          <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot%204.jpeg"  width="280"></td>
+           <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot%204.jpeg"  width="280"></td>
            <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot%202.jpeg"  width="280"></td>
-         
-        <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot%203.jpeg"  width="280"></td>
-         
-         
-        <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot1.jpeg" width="280"></td>
+           <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot%203.jpeg"  width="280"></td>
+           <td><img src = "https://github.com/Ishita03-Singh/News-Feed/blob/master/screenshot1.jpeg" width="280"></td>
         
         </tr>
 </table>  
