@@ -11,8 +11,7 @@ News Feed Application shows trending news on daily update where news are also ca
 Built with-
 <li>
         
-      
-          <ul> Android Studio</ul>
+     Android Studio</li>
           <ul>Kotlin</ul>
         <ul> News Api</ul>
 
